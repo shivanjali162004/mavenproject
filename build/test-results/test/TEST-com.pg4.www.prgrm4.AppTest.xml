@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pg4.www.prgrm4.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-25T10:07:48" hostname="SHIVANJALI" time="0.005">
+  <properties/>
+  <testcase name="testApp" classname="com.pg4.www.prgrm4.AppTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
